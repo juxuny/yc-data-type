@@ -1,0 +1,26 @@
+{
+  "name": "@juxuny/yc-ts-data-type",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juxuny/yc-ts-data-type.git"
+  },
+  "keywords": [],
+  "author": "Juxuny Wu",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/juxuny/yc-ts-data-type/issues"
+  },
+  "homepage": "https://github.com/juxuny/yc-ts-data-type#readme",
+  "dependencies": {
+    "antd": "^4.21.2",
+    "umi-request": "^1.4.0",
+    "uuid-generator-ts": "^1.1.0"
+  },
+  "devDependencies": {}
+}
