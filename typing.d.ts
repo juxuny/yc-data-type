@@ -20,3 +20,9 @@ export type BaseResp<Type> = {
   data?: Type;
   msg?: string;
 }
+
+export type QueryParams<Type> = Type & {
+  current?: number | undefined;
+  pageSize?: number | undefined;
+  keyword?: string | undefined;
+};

@@ -1,6 +1,6 @@
 {
   "name": "@juxuny/yc-ts-data-type",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,5 @@
     "antd": "^4.21.2",
     "umi-request": "^1.4.0",
     "uuid-generator-ts": "^1.1.0"
-  },
-  "devDependencies": {}
+  }
 }
